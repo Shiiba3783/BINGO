@@ -76,7 +76,7 @@ for($i=1; $i<=$S; $i++) {
     }
 }
 
-print $result;
+echo $result;
 
 ?>
 
